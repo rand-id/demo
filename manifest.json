@@ -8,31 +8,31 @@
   "theme_color": "#204ecf",
   "description": "Demo blog Templetan BlogSpot dengan template terbaru.",
   "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjOdhUXWY4ABiIS3bz-Sb5VkMtHMKTuRaUFyMVFBBqNRJj_qRKy57kXXii4-FcA_r257jDyw1KiVbXHSRvc2FOeD7qBTMa8YqTXYWf2IHGzSp4mpLWdhHTjrAPJYvLIVFBOCvr1eNzvd_RrW49UZGfATbLG6YJZinlOWBBUCd-9aXoR7mgJ20AmSwfg",
+    "src": "https://1.bp.blogspot.com/-exTcpLNzs5U/YZ8aOaS7uUI/AAAAAAAAQ_8/CCO2iZIHiKMDAgc6KrD5eF3jD5HF0yfxACLcBGAsYHQ/s0/logo48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjaIxUwoK2VRzALudmd8EIj5yotiNZH90Awsle1p3l7m44EkhbcS1ADwQ5Taw9873gRtOIUPZzUgJAosuSaxAWsoqSGC6Mqa6_4ewuzVsk6a9iXsas5Oa9F4zv4VIcBnwkz7PXY4LA2g2bKnc44rG6_r2WGdOgRHIX5viQE865dbiovwLC_PrA5w352",
+    "src": "https://1.bp.blogspot.com/-4Km7wGdSMBc/YZ8aO4-TjdI/AAAAAAAARAE/58Tc6tvl0aMT1kh4Wv_qz7uS36D9Mb5MwCLcBGAsYHQ/s73/logo72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhcelnICvndQgh06RSyVOZMfV-LkYywhWIKr38BCqxo46ap9v-4lmWlC_dOhPCmlnJZZooXHqj7-TevkwkZR8jYftuclQmuDlNge9j5spWUwtdteOEK_s-rVH1qRpjRjiYnE5FSjy3HpNUKOFkKFqL5EKCRSdy2Qhuyr9FszcYJ2bS8oo8aHr1JoQTj",
+    "src": "https://1.bp.blogspot.com/-XIAnqi8Pvto/YZ8aPSoTmnI/AAAAAAAARAI/DL8jPg53iXAwclrBxcfdGc4u0xIRHIVugCLcBGAsYHQ/s97/logo96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhzL5AOfVgHY2KcwfRvm94kZR5EaBhjrmROI57RFvIbNK_3yFxiD_Oo_qFGmkfdYAwqm9euKJ0y_ewToMc59k5jpR72KPWT8Fw_0NSTHZ1bGGCvp9oTv1F_hzsu-0gi9I5ZK-3iF1glR3lx_WD5MgeK32jonx_yEhx5QJclGq8IDVBW-_lD7IIWU538",
+    "src": "https://1.bp.blogspot.com/-vGJommKctpc/YZ8aNioHVQI/AAAAAAAAQ_4/VzE50E1FMTYLHAsDnRpohRv-uVQdEuHSwCLcBGAsYHQ/s145/logo144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhL1TlQoX_bFJS1Xf96KW9G8L1BKrNRXKc2ZAqVdBJAC2d0QrmU5KDv7T0P1TKyP4aiBibh0NgZkqolO7xZC1ARKJUL-ZImoNpnUMlkZiB-p3oWPfjBIA8c_ULShIAE3NaAEXAiJBzvmqDwWyiWpprGSsULo7nCa01peGjLCehohRwkgVLfIN55CWa1",
+    "src": "https://1.bp.blogspot.com/-uHAXLBWyEqk/YZ8aNjAfGWI/AAAAAAAAQ_0/pKcSCWO3rfIIr9llsVplDqglqMnaiIemACLcBGAsYHQ/s0/logo168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjw3tMeoEt6Nt1F4fuRRupT4Ilx5iG94Ubr0zT24hiItT6TLJjzWKoswTiUAetDzwRhY_2YB-AQCwrcMChDoIWBpSes4SKgikYiADqwVX0hNqUojJfCcrKayD3X3oL1oGo7gq82vAbwO3UA9ZoKTMDiFquhnF9gMy9wFFqdKDIlIaSjliYVCiuQ9noJ",
+    "src": "https://1.bp.blogspot.com/-DX4NZYKcljM/YZ8aNSxMzZI/AAAAAAAAQ_w/31Kt66IN_LAImJriTry8gN2sS1hlnnKmgCLcBGAsYHQ/s0/logo192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhSe0JSb8Cp22Mbqh3JSOv8jXo_mNL6f8zKa0GMcQKPr7DP3zUdUV6uxFiNrYiZN0esnF_m0NTSJH0OIQfrvakvZyC_rf0c3tf0LYys7WSO7JRDas4Sjeamh8rpY3fJgFzcsuLpUKWvgTkmKApqgtryKv2yU19QjwD3_-Goi-yCUDr-tKu4tMHYj_RK=s320",
+    "src": "https://1.bp.blogspot.com/-NTY5fmTRDJ8/YZ8aOjy9NCI/AAAAAAAARAA/8ND3De4yj9g3QEafGo8uZ6lp9qam0BcSACLcBGAsYHQ/s320/logo512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
