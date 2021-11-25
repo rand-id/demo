@@ -1,8 +1,8 @@
 {
   "name": "Templetan | blog Demoran",
   "short_name": "Blog demo dengan template terbaru",
-  "scope": "templetan.blogspot.com",
-  "start_url": "https://templetan.blogspot.com/",
+  "scope": "https://templetan.blogspot.com",
+  "start_url": "https://templetan.blogspot.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#204ecf",
